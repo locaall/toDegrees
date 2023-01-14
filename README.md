@@ -1,0 +1,2 @@
+# About
+I'm a C++ beginner, who's also learning how to use Git and GitHub Desktop. That's all quite new for me, but I'll try my best to learn them! This's a simple convertor app, which converts from Radians to Degrees, and you can also change the number of decimal places.
